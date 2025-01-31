@@ -19,7 +19,7 @@ cd TGPomodoro
 
 Далее:
 
-``` shell
+```shell
 pip install pip --upgrade
 pip install -r requirements.txt
 ```
