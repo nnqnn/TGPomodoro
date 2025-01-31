@@ -9,7 +9,7 @@
 git clone https://github.com/nnqnn/TGPomodoro
 ```
 # Вам надо быть в `TGPomodoro` для дальнейшей работы:
-``` shell
+```shell
 cd TGPomodoro
 ```
 
